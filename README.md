@@ -3,3 +3,4 @@ W repozytorium możesz znaleźć moje rozwiązania różnych arkuszy z E14, EE09
 Aktualnie dodane egzaminy:
 - ee09_2020_06_01_SG
 - ee09_2020_06_03_SG
+- ee09_2020_06_02
